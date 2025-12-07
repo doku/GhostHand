@@ -29,7 +29,7 @@ If you are a developer, you can run GhostHand directly from Python.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/GhostHand.git
+git clone https://github.com/doku/GhostHand.git
 cd GhostHand
 
 # 2. Create a virtual environment
